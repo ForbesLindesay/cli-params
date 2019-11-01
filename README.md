@@ -1,5 +1,7 @@
 # npm-package-template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/cli-params.svg)](https://greenkeeper.io/)
+
 A template for npm packages built in TypeScript
 
 ## Setting Up the New Repo
